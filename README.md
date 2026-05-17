@@ -1,30 +1,37 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/justchokingaround/wallpapers/main/cyberpunk-edgerunners-lucy-4k.jpg" alt="Cyberpunk Edgerunners Banner" />
+<img width="100%" src="https://raw.githubusercontent.com/justchokingaround/wallpapers/main/cyberpunk-dystopia.png" alt="cyberpunk banner"/>
 
 <br/>
 
-# Maddali Suhas Choudary
+[![name](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=1&pause=99999&color=00D4FF&center=true&vCenter=true&repeat=false&width=600&lines=MADDALI+SUHAS+CHOUDARY)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2800&pause=900&color=F9A8D4&center=true&vCenter=true&width=540&lines=building+things+that+don't+hallucinate+(mostly);agentic+AI+%E2%80%A2+indic+NLP+%E2%80%A2+full-stack;final+year.+still+going.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2800&pause=900&color=FF006E&center=true&vCenter=true&width=540&lines=building+things+that+don't+hallucinate+(mostly);agentic+AI+%E2%80%A2+indic+NLP+%E2%80%A2+full-stack;final+year.+still+going.)](https://git.io/typing-svg)
+
+<br/>
+
+[![](https://img.shields.io/badge/📍_Hyderabad-0d1117?style=flat-square&color=0d1117&labelColor=0d1117&logoColor=00ff41)](-)&nbsp;
+[![](https://img.shields.io/badge/Gmail-suhaschowdary25%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=FF006E&labelColor=0d1117&color=0d1117)](mailto:suhaschowdary25@gmail.com)&nbsp;
+[![](https://img.shields.io/badge/Open_to_Collabs-00FF41?style=flat-square&labelColor=0d1117&color=0d1117&logoColor=00FF41)](-)
 
 </div>
 
 ---
 
 ```yaml
-# profile.yml
-name:       Maddali Suhas Choudary
-role:       CS & Engineering Student
-institute:  IIIT Senapati, Manipur
-focus:      Agentic AI · Indic NLP · LLM Pipelines
-building:   things that actually work (benchmarked, not vibes)
-location:   Hyderabad, India
+# ── profile.yml ────────────────────────────────────────────────
+  name:       Maddali Suhas Choudary
+  role:       CS & Engineering Student
+  institute:  IIIT Senapati, Manipur
+  focus:      Agentic AI  ·  Indic NLP  ·  LLM Pipelines
+  building:   things that actually work  (benchmarked, not vibes)
+  location:   Hyderabad, India
+# ───────────────────────────────────────────────────────────────
 ```
 
 ---
 
-### ~/projects
+![](https://img.shields.io/badge/▸%20~%2F_PROJECTS-00FF41?style=for-the-badge&labelColor=0d1117)
 
 | project | tldr | key stat |
 |---|---|---|
@@ -35,7 +42,7 @@ location:   Hyderabad, India
 
 ---
 
-### ~/stack
+![](https://img.shields.io/badge/▸%20~%2F_STACK-00D4FF?style=for-the-badge&labelColor=0d1117)
 
 <div align="center">
 
@@ -45,7 +52,7 @@ location:   Hyderabad, India
 
 ---
 
-### ~/stats
+![](https://img.shields.io/badge/▸%20~%2F_STATS-FF006E?style=for-the-badge&labelColor=0d1117)
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Suhas-123-cell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&hide=stars&custom_title=github+stats" />
@@ -59,17 +66,17 @@ location:   Hyderabad, India
 
 ---
 
+![](https://img.shields.io/badge/▸%20~%2F_GRID-9B59FF?style=for-the-badge&labelColor=0d1117)
+
 <div align="center">
 
 ![snake](https://raw.githubusercontent.com/Suhas-123-cell/Suhas-123-cell/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
----
-
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Suhas-123-cell&theme=tokyo-night&hide_border=true&area=true&custom_title=contribution%20activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Suhas-123-cell&theme=tokyo-night&hide_border=true&area=true&custom_title=contribution+activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -77,6 +84,8 @@ location:   Hyderabad, India
 
 <div align="center">
 
-📍 Hyderabad &nbsp;·&nbsp; suhaschowdary25@gmail.com &nbsp;·&nbsp; open to collabs
+![](https://img.shields.io/badge/📍_Hyderabad-0d1117?style=flat-square&color=111&labelColor=111)
+![](https://img.shields.io/badge/suhaschowdary25%40gmail.com-0d1117?style=flat-square&color=111&labelColor=111)
+![](https://img.shields.io/badge/open_to_collabs-00FF41?style=flat-square&color=111&labelColor=111)
 
 </div>
