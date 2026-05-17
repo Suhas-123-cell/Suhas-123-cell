@@ -10,9 +10,9 @@
 
 <br/>
 
-[![](https://img.shields.io/badge/📍_Hyderabad-0d1117?style=flat-square&color=0d1117&labelColor=0d1117&logoColor=00ff41)](-)&nbsp;
-[![](https://img.shields.io/badge/Gmail-suhaschowdary25%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=FF006E&labelColor=0d1117&color=0d1117)](mailto:suhaschowdary25@gmail.com)&nbsp;
-[![](https://img.shields.io/badge/Open_to_Collabs-00FF41?style=flat-square&labelColor=0d1117&color=0d1117&logoColor=00FF41)](-)
+[![](https://img.shields.io/badge/📍_Hyderabad-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)](-)&nbsp;
+[![](https://img.shields.io/badge/Gmail-suhaschowdary25%40gmail.com-FF006E?style=flat-square&logo=gmail&logoColor=FF006E&labelColor=0d1117&color=0d1117)](mailto:suhaschowdary25@gmail.com)&nbsp;
+[![](https://img.shields.io/badge/open_to_collabs-00FF41?style=flat-square&labelColor=0d1117&color=0d1117)](-)
 
 </div>
 
@@ -55,13 +55,13 @@
 ![](https://img.shields.io/badge/▸%20~%2F_STATS-FF006E?style=for-the-badge&labelColor=0d1117)
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Suhas-123-cell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&hide=stars&custom_title=github+stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Suhas-123-cell&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github&hide=stars&custom_title=github+stats" />
   &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhas-123-cell&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhas-123-cell&layout=compact&theme=radical&hide_border=true&langs_count=6" />
 </div>
 
 <div align="center">
-  <img width="480" src="https://streak-stats.demolab.com?user=Suhas-123-cell&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img width="500" src="https://streak-stats.demolab.com?user=Suhas-123-cell&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=00D4FF&fire=FF006E&currStreakLabel=00FF41&sideLabels=FF006E&dates=9B59FF" />
 </div>
 
 ---
@@ -76,7 +76,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Suhas-123-cell&theme=tokyo-night&hide_border=true&area=true&custom_title=contribution+activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Suhas-123-cell&theme=tokyo-night&hide_border=true&area=true&custom_title=contribution+activity&color=00D4FF&line=FF006E&point=00FF41&area_color=9B59FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -85,7 +85,7 @@
 <div align="center">
 
 ![](https://img.shields.io/badge/📍_Hyderabad-0d1117?style=flat-square&color=111&labelColor=111)
-![](https://img.shields.io/badge/suhaschowdary25%40gmail.com-0d1117?style=flat-square&color=111&labelColor=111)
+![](https://img.shields.io/badge/suhaschowdary25%40gmail.com-FF006E?style=flat-square&color=111&labelColor=111&logoColor=FF006E)
 ![](https://img.shields.io/badge/open_to_collabs-00FF41?style=flat-square&color=111&labelColor=111)
 
 </div>
