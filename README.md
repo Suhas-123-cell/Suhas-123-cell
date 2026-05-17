@@ -38,7 +38,6 @@
 | [**hallu-check**](#) | catches LLM hallucinations at claim level | `98.5%` on TruthfulQA |
 | [**multilingual doc intel**](#) | extracts structured data from Indian gov docs in Bangla, Telugu, Hindi | Sarvam Vision + Tesseract |
 | [**lang-benchmark**](#) | Sarvam-2B vs Gemma-2B on Indic NLP | IndicQA · IndicMMLU-Pro |
-| [**customer-support**](#) | RAG chatbot + agent copilot for support teams | GPT-4o · LangChain · FastAPI |
 
 ---
 
@@ -55,9 +54,9 @@
 ![](https://img.shields.io/badge/▸%20~%2F_STATS-FF006E?style=for-the-badge&labelColor=0d1117)
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Suhas-123-cell&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github&hide=stars&custom_title=github+stats" />
-  &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhas-123-cell&layout=compact&theme=radical&hide_border=true&langs_count=6" />
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Suhas-123-cell&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 <div align="center">
