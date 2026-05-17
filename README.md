@@ -61,7 +61,7 @@
 </div>
 
 <div align="center">
-  <img width="500" src="https://streak-stats.demolab.com?user=Suhas-123-cell&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=00D4FF&fire=FF006E&currStreakLabel=00FF41&sideLabels=FF006E&dates=9B59FF" />
+  <img width="500" src="https://streak-stats.demolab.com?user=Suhas-123-cell&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0d1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&currStreakNum=ffffff&sideNums=ffffff&sideLabels=8b949e&dates=8b949e&stroke=00D4FF" />
 </div>
 
 ---
