@@ -1,14 +1,14 @@
 <div align="center">
 
-[![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=180&section=header&text=maddali%20suhas%20choudary&fontSize=36&fontColor=ffffff&fontAlignY=38&animation=fadeIn)](https://github.com/SuhasChoudary25)
+[![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0f2027,100:0d1117&height=200&section=header&text=maddali%20suhas%20choudary&fontSize=38&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=CS%20%40%20IIIT%20Senapati%20%E2%80%A2%20Manipur&descSize=14&descAlignY=60&descFontColor=8b949e)](https://github.com/Suhas-123-cell)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=520&lines=building+things+that+don't+hallucinate+(mostly);agentic+AI+%E2%80%A2+indic+NLP+%E2%80%A2+full-stack;final+year.+still+going.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=500&lines=building+things+that+don't+hallucinate+(mostly);agentic+AI+%E2%80%A2+indic+NLP+%E2%80%A2+full-stack;final+year.+still+going.)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-final year CS undergrad @ IIIT Senapati, Manipur. I build LLM pipelines, break them, then benchmark them.  
+final year CS undergrad @ IIIT Senapati, Manipur. I build LLM pipelines, break them, then benchmark them.
 indic NLP is my thing.
 
 ---
@@ -33,16 +33,16 @@ indic NLP is my thing.
 ---
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SuhasChoudary25&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&hide=stars&custom_title=github" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhasChoudary25&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-  <img height="150" src="https://streak-stats.demolab.com?user=SuhasChoudary25&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=Suhas-123-cell&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&hide=stars&custom_title=github" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhas-123-cell&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+  <img height="155" src="https://streak-stats.demolab.com?user=Suhas-123-cell&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
 
 ---
 
 <div align="center">
 
-![snake](https://raw.githubusercontent.com/SuhasChoudary25/SuhasChoudary25/output/github-contribution-grid-snake-dark.svg)
+![snake](https://raw.githubusercontent.com/Suhas-123-cell/Suhas-123-cell/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -50,7 +50,7 @@ indic NLP is my thing.
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SuhasChoudary25&theme=tokyo-night&hide_border=true&area=true&custom_title=contribution%20activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Suhas-123-cell&theme=tokyo-night&hide_border=true&area=true&custom_title=contribution%20activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
