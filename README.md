@@ -38,6 +38,7 @@
 | [**hallu-check**](#) | catches LLM hallucinations at claim level | `98.5%` on TruthfulQA |
 | [**multilingual doc intel**](#) | extracts structured data from Indian gov docs in Bangla, Telugu, Hindi | Sarvam Vision + Tesseract |
 | [**lang-benchmark**](#) | Sarvam-2B vs Gemma-2B on Indic NLP | IndicQA · IndicMMLU-Pro |
+| [**customer-support**](#) | RAG chatbot + agent copilot for support teams | GPT-4o · LangChain · FastAPI |
 
 ---
 
@@ -75,7 +76,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Suhas-123-cell&theme=tokyo-night&hide_border=true&area=true&custom_title=contribution+activity&color=00D4FF&line=FF006E&point=00FF41&area_color=9B59FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Suhas-123-cell&bg_color=0d1117&color=00D4FF&line=00D4FF&point=ffffff&area=true&area_color=00D4FF&hide_border=true&custom_title=contribution+activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
