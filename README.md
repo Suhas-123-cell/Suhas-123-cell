@@ -1,6 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0d1117&bg_image=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1528360983277-13d401cdc186%3Fw%3D1400%26q%3D85&height=260&section=header&text=Maddali%20Suhas%20Choudary&fontSize=42&fontColor=ffffff&fontAlignY=40&fontAlign=50&animation=fadeIn&desc=agentic%20AI%20%E2%80%A2%20indic%20NLP%20%E2%80%A2%20full-stack&descSize=15&descAlignY=60&descFontColor=f9a8d4" />
+<img width="100%" src="https://images.unsplash.com/photo-1513116476489-7635e79feb27?w=1400&q=85" alt="anime banner" />
+
+</div>
+
+<div align="center">
+
+# Maddali Suhas Choudary
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2800&pause=900&color=F9A8D4&center=true&vCenter=true&width=540&lines=building+things+that+don't+hallucinate+(mostly);agentic+AI+%E2%80%A2+indic+NLP+%E2%80%A2+full-stack;final+year.+still+going.)](https://git.io/typing-svg)
 
@@ -27,6 +33,7 @@ location:   Hyderabad, India
 | [**hallu-check**](#) | catches LLM hallucinations at claim level | `98.5%` on TruthfulQA |
 | [**multilingual doc intel**](#) | extracts structured data from Indian gov docs in Bangla, Telugu, Hindi | Sarvam Vision + Tesseract |
 | [**lang-benchmark**](#) | Sarvam-2B vs Gemma-2B on Indic NLP | IndicQA · IndicMMLU-Pro |
+| [**customer-support**](#) | RAG chatbot + agent copilot for support teams | GPT-4o · LangChain · FastAPI |
 
 ---
 
@@ -69,8 +76,6 @@ location:   Hyderabad, India
 </div>
 
 ---
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0d1117&bg_image=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1528360983277-13d401cdc186%3Fw%3D1400%26q%3D85&height=120&section=footer" />
 
 <div align="center">
 
