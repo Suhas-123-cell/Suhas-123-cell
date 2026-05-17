@@ -1,10 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://images.unsplash.com/photo-1513116476489-7635e79feb27?w=1400&q=85" alt="anime banner" />
+<img width="100%" src="https://raw.githubusercontent.com/justchokingaround/wallpapers/main/cyberpunk-edgerunners-lucy-4k.jpg" alt="Cyberpunk Edgerunners Banner" />
 
-</div>
-
-<div align="center">
+<br/>
 
 # Maddali Suhas Choudary
 
