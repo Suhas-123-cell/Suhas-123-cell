@@ -1,170 +1,115 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Suhas+%F0%9F%91%8B;AI+%26+LLM+Engineer+in+the+Making;Building+Systems+That+Think+Critically;98.5%25+on+TruthfulQA+%E2%80%94+not+luck." alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=hey%2C%20i%27m%20suhas%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=i%20build%20things%20that%20make%20LLMs%20less%20wrong&descAlignY=58&descSize=18&descColor=a5b4fc" />
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1200&color=A5B4FC&center=true&vCenter=true&width=500&lines=AI+%26+LLM+engineer+in+the+making+%F0%9F%A7%A0;98.5%25+on+TruthfulQA.+not+vibes%2C+actual+numbers.;building+agentic+pipelines+%40+IIIT+Manipur;open+to+internships+%26+collabs+%E2%9C%8C%EF%B8%8F)](https://github.com/Suhas-123-cell)
+
+</div>
 
 <br/>
 
-<p>
-  <b>AI & Full-Stack Developer &nbsp;·&nbsp; B.Tech CSE @ IIIT Manipur &nbsp;·&nbsp; Hyderabad, India 🇮🇳</b><br/>
-  <i>Building agentic LLM pipelines, hallucination detectors, and AI-powered full-stack apps</i>
-</p>
+<div align="center">
 
-<a href="mailto:suhaschowdary25@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Suhas-123-cell"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+![](https://komarev.com/ghpvc/?username=Suhas-123-cell&style=flat-square&color=6366f1&label=profile+views)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+&nbsp;
+[![Email](https://img.shields.io/badge/-email+me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:suhaschowdary25@gmail.com)
+
+</div>
+
+---
+
+```yaml
+name    : Maddali Suhas Choudary
+college : IIIT Senapati, Manipur  |  B.Tech CSE  |  2023 → 2027
+cgpa    : 8.0 / 10
+focus   : agentic LLMs · hallucination detection · RAG · full-stack AI apps
+location: Hyderabad, India 🇮🇳
+status  : open to internships & research collabs ✅
+```
+
+---
+
+## what i've built
+
+> three end-to-end GenAI systems. real benchmarks. no fluff.
+
+<br/>
+
+**🔍 [Hallu-Check](https://github.com/Suhas-123-cell/Hallu-Check)** &nbsp;·&nbsp; *Jan – May 2026*
+> 8-node agentic pipeline that detects + corrects LLM hallucinations &nbsp;|&nbsp; served as a FastAPI REST API
+
+```
+TruthfulQA accuracy  →  98.5%   (197/200 samples)   @ 41.8 ms/sample
+HaluEval-QA recall   →  73.8%   F1: 58.9%           @ 27.8 ms/sample
+EGV bug catch rate   →  100%    (50 HumanEval probs, 0% correction-induced hallucinations)
+```
+`FastAPI` `Llama 3.2` `DeBERTa-v3` `C-RAG` `NLI` `Gemini 2.5 Flash` `SymPy`
+
+<br/>
+
+**🌐 [Multilingual Document Intelligence](https://github.com/Suhas-123-cell)** &nbsp;·&nbsp; *Dec 2025 – Jan 2026*
+> structured data extraction from Indian govt docs in Bangla, Telugu & Hindi
+
+`Python` `Sarvam Vision` `Tesseract OCR` `Pydantic` `Gradio`
+
+<br/>
+
+**💬 [AI-Powered Web Rendering Chatbot](https://github.com/Suhas-123-cell)** &nbsp;·&nbsp; *May – Jun 2025*
+> full-stack chatbot with chain-of-thought prompting + real-time web-rendered responses
+
+`FastAPI` `React.js` `Gemini 2.5 Flash` `Firebase` `Prompt Engineering`
+
+---
+
+## stack
+
+<div align="center">
+
+**ai & ml**
+
+![Python](https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=a5b4fc)
+![PyTorch](https://img.shields.io/badge/PyTorch-1e1e2e?style=for-the-badge&logo=pytorch&logoColor=a5b4fc)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-1e1e2e?style=for-the-badge&logo=huggingface&logoColor=a5b4fc)
+![Gemini](https://img.shields.io/badge/Gemini_API-1e1e2e?style=for-the-badge&logo=google&logoColor=a5b4fc)
+
+**genai**
+
+![RAG](https://img.shields.io/badge/RAG-1e1e2e?style=for-the-badge&logoColor=a5b4fc)
+![C-RAG](https://img.shields.io/badge/C--RAG-1e1e2e?style=for-the-badge&logoColor=a5b4fc)
+![NLI](https://img.shields.io/badge/NLI-1e1e2e?style=for-the-badge&logoColor=a5b4fc)
+![Prompt Eng](https://img.shields.io/badge/Prompt_Engineering-1e1e2e?style=for-the-badge&logoColor=a5b4fc)
+![n8n](https://img.shields.io/badge/n8n-1e1e2e?style=for-the-badge&logo=n8n&logoColor=a5b4fc)
+
+**web & tools**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-1e1e2e?style=for-the-badge&logo=fastapi&logoColor=a5b4fc)
+![React](https://img.shields.io/badge/React-1e1e2e?style=for-the-badge&logo=react&logoColor=a5b4fc)
+![Next.js](https://img.shields.io/badge/Next.js-1e1e2e?style=for-the-badge&logo=nextdotjs&logoColor=a5b4fc)
+![TypeScript](https://img.shields.io/badge/TypeScript-1e1e2e?style=for-the-badge&logo=typescript&logoColor=a5b4fc)
+![Git](https://img.shields.io/badge/Git-1e1e2e?style=for-the-badge&logo=git&logoColor=a5b4fc)
+![Supabase](https://img.shields.io/badge/Supabase-1e1e2e?style=for-the-badge&logo=supabase&logoColor=a5b4fc)
+
+</div>
+
+---
+
+## numbers
+
+<div align="center">
+
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=Suhas-123-cell&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a5b4fc&icon_color=a5b4fc&text_color=e2e8f0&count_private=true" />
+&nbsp;
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhas-123-cell&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a5b4fc&text_color=e2e8f0&langs_count=6" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Suhas-123-cell&style=flat-square&color=6366f1&label=Profile+Views" />
-
-</div>
-
----
-
-## 🧠 About Me
-
-- 🎓 **B.Tech Computer Science** @ [IIIT Senapati, Manipur](https://iiitmanipur.ac.in/) — Class of 2027 · CGPA: **8.0 / 10**
-- 🔭 Currently building **agentic LLM pipelines** for hallucination detection, correction & evaluation
-- 🏆 My project **Hallu-Check** achieved **98.5% accuracy on TruthfulQA** and a **100% bug catch rate** on HumanEval — supervised as a formal academic project (CS3201)
-- 🌱 Deep-diving into **Corrective RAG**, **NLI-based reasoning**, **LLM fine-tuning**, and **agentic workflows**
-- 💡 I care about making LLMs *actually reliable* — not just impressive on demos
-- 📬 Reach me at **suhaschowdary25@gmail.com**
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔍 [Hallu-Check](https://github.com/Suhas-123-cell/Hallu-Check)
-**Agentic LLM Hallucination Detection & Correction**
-
-An **8-node agentic pipeline** that detects, verifies, and corrects LLM hallucinations using NLI, Corrective RAG, and an Execution-Guided Verifier — served as a FastAPI REST API.
-
-| Benchmark | Result |
-|-----------|--------|
-| TruthfulQA Accuracy | **98.5%** (197/200) |
-| HaluEval-QA Recall | **73.8%** |
-| HaluEval-QA F1 | **58.9%** |
-| EGV Bug Catch Rate | **100%** (50 problems) |
-| NLI Inference Speed | **41.8 ms/sample** |
-
-`FastAPI` `Llama 3.2` `DeBERTa-v3` `C-RAG` `Gemini 2.5 Flash` `SymPy`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 [Multilingual Document Intelligence](https://github.com/Suhas-123-cell)
-**Structured Extraction from Indian Government Docs**
-
-End-to-end pipeline for extracting structured data from scanned Indian government documents (ration cards, land records, birth certificates) in **Bangla, Telugu & Hindi**.
-
-- 🔎 Sarvam Vision VLM + Tesseract OCR w/ Indic packs
-- 📋 Pydantic schema-based JSON extraction with NL Q&A
-- 📊 Field-level accuracy harness: precision, recall & CER
-- 🖥️ Gradio demo — side-by-side benchmark view
-
-`Python` `Sarvam Vision` `Gradio` `Pydantic` `Tesseract OCR`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💬 [AI-Powered Web Rendering Chatbot](https://github.com/Suhas-123-cell)
-**Full-Stack Chatbot with Dynamic Rendered Responses**
-
-Intelligent chatbot combining FastAPI + React.js + Gemini 2.5 Flash for real-time, web-rendered AI responses.
-
-- ⚙️ Few-shot prompting, chain-of-thought & role prompting
-- 🔐 User authentication & session management
-- 📱 Responsive frontend with real-time streaming
-- 🧪 Measurably improved instruction-following via prompt tuning
-
-`FastAPI` `React.js` `Gemini 2.5 Flash` `Prompt Engineering` `Firebase`
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 What I'm Building Next
-**Always experimenting at the frontier**
-
-- 🧪 Exploring **multi-agent debate** for hallucination reduction
-- 📐 Studying **GraphRAG** and knowledge-graph-augmented retrieval
-- 🔩 Contributing to open-source AI tooling
-- 📝 Writing up Hallu-Check findings as a technical report
-
-*Open to internship & research collaboration opportunities!*
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
-
-**AI & Machine Learning**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat-square)
-![Scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-**GenAI & RAG**
-
-![RAG](https://img.shields.io/badge/RAG-6366F1?style=flat-square)
-![C--RAG](https://img.shields.io/badge/C--RAG-8B5CF6?style=flat-square)
-![NLI](https://img.shields.io/badge/NLI-EC4899?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-14B8A6?style=flat-square)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-
-**Web & APIs**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square)
-
-**Languages & Tools**
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Suhas-123-cell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhas-123-cell&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Suhas-123-cell&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Suhas-123-cell&theme=tokyonight&no-frame=true&column=7&margin-w=4" />
+<img src="https://streak-stats.demolab.com?user=Suhas-123-cell&theme=tokyonight&hide_border=true&background=0d1117&ring=a5b4fc&fire=818cf8&currStreakLabel=a5b4fc&sideNums=e2e8f0&sideLabels=94a3b8&dates=64748b" />
 
 </div>
 
@@ -172,18 +117,6 @@ Intelligent chatbot combining FastAPI + React.js + Gemini 2.5 Flash for real-tim
 
 <div align="center">
 
-### 💬 *"LLMs shouldn't hallucinate. I'm working on that."*
-
-<br/>
-
-**Open to internships · research collabs · AI projects**
-
-[![Email](https://img.shields.io/badge/Let's_Talk-suhaschowdary25%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhaschowdary25@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
-
-<br/>
-
-<i>⭐ Star a repo if you find something useful — it means a lot!</i>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&fontSize=14&fontColor=a5b4fc&text=let%27s+build+something+that+actually+works&fontAlignY=65" />
 
 </div>
