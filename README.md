@@ -60,9 +60,6 @@
 
 </div>
 
-<div align="center">
-  <img width="495" src="https://github-readme-stats.vercel.app/api?username=Suhas-123-cell&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=FF006E&text_color=ffffff&count_private=true&include_all_commits=true" />
-</div>
 
 ---
 
