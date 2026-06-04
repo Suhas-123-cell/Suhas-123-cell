@@ -61,7 +61,7 @@
 </div>
 
 <div align="center">
-  <img width="500" src="https://streak-stats.demolab.com?user=Suhas-123-cell&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0d1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&currStreakNum=ffffff&sideNums=ffffff&sideLabels=8b949e&dates=8b949e&stroke=00D4FF" />
+  <img width="495" src="https://github-readme-stats.vercel.app/api?username=Suhas-123-cell&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=FF006E&text_color=ffffff&count_private=true&include_all_commits=true" />
 </div>
 
 ---
