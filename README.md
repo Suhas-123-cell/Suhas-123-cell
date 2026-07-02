@@ -12,6 +12,7 @@
 
 [![](https://img.shields.io/badge/📍_Hyderabad-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)](-)&nbsp;
 [![](https://img.shields.io/badge/Gmail-suhaschowdary25%40gmail.com-FF006E?style=flat-square&logo=gmail&logoColor=FF006E&labelColor=0d1117&color=0d1117)](mailto:suhaschowdary25@gmail.com)&nbsp;
+[![](https://img.shields.io/badge/🌐_Portfolio-suhaschowdary.qzz.io-00D4FF?style=flat-square&labelColor=0d1117&color=0d1117)](https://suhaschowdary.qzz.io)&nbsp;
 [![](https://img.shields.io/badge/open_to_collabs-00FF41?style=flat-square&labelColor=0d1117&color=0d1117)](-)
 
 </div>
@@ -26,6 +27,7 @@
   focus:      Agentic AI  ·  Indic NLP  ·  LLM Pipelines
   building:   things that actually work  (benchmarked, not vibes)
   location:   Hyderabad, India
+  portfolio:  https://suhaschowdary.qzz.io
 # ───────────────────────────────────────────────────────────────
 ```
 
@@ -83,6 +85,7 @@
 
 ![](https://img.shields.io/badge/📍_Hyderabad-0d1117?style=flat-square&color=111&labelColor=111)
 ![](https://img.shields.io/badge/suhaschowdary25%40gmail.com-FF006E?style=flat-square&color=111&labelColor=111&logoColor=FF006E)
+[![](https://img.shields.io/badge/🌐_suhaschowdary.qzz.io-00D4FF?style=flat-square&color=111&labelColor=111)](https://suhaschowdary.qzz.io)
 ![](https://img.shields.io/badge/open_to_collabs-00FF41?style=flat-square&color=111&labelColor=111)
 
 </div>
