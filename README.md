@@ -1,7 +1,7 @@
 <div align="center">
 
 <img width="100%" src="https://raw.githubusercontent.com/justchokingaround/wallpapers/main/cyberpunk-dystopia.png" alt="cyberpunk banner"/>
-
+ 
 <br/>
 
 [![name](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=1&pause=99999&color=00D4FF&center=true&vCenter=true&repeat=false&width=600&lines=MADDALI+SUHAS+CHOUDARY)](https://git.io/typing-svg)
