@@ -40,7 +40,7 @@
 | [**hallu-check**](#) | catches LLM hallucinations at claim level | `98.5%` on TruthfulQA |
 | [**multilingual doc intel**](#) | extracts structured data from Indian gov docs in Bangla, Telugu, Hindi | Sarvam Vision + Tesseract |
 | [**lang-benchmark**](#) | Sarvam-2B vs Gemma-2B on Indic NLP | IndicQA · IndicMMLU-Pro |
-| [**customer-support**](#) | RAG chatbot + agent copilot for support teams | GPT-4o · LangChain · FastAPI |
+| [**web-rendering chatbot**](#) | Chatbot for web rendered websites via bs4 | React · FastAPI |
 
 ---
 
