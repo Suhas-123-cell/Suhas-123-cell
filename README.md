@@ -116,13 +116,48 @@ React · FastAPI
 
 ## <img src="https://img.shields.io/badge/-FF006E?style=flat-square" height="14"/> stack
 
-<div align="center">
-
-[![Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,postgres,docker&theme=dark)](https://skillicons.dev)
-<br/>
-[![Skills](https://skillicons.dev/icons?i=react,ts,js,cpp,git,firebase,supabase&theme=dark)](https://skillicons.dev)
-
-</div>
+<table>
+<tr>
+<td width="140"><b>languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=python,ts,js,cpp&theme=dark" alt="Python, TypeScript, JavaScript, C++"/></td>
+</tr>
+<tr>
+<td><b>ai / ml</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="PyTorch, TensorFlow, scikit-learn"/><br/>
+<img src="https://img.shields.io/badge/LangGraph-0d1117?style=flat-square&logo=langchain&logoColor=00D4FF" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/Hugging_Face-0d1117?style=flat-square&logo=huggingface" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/MCP-0d1117?style=flat-square&logo=anthropic&logoColor=white" alt="MCP"/>
+<img src="https://img.shields.io/badge/Groq-0d1117?style=flat-square" alt="Groq"/>
+<img src="https://img.shields.io/badge/Gemini-0d1117?style=flat-square&logo=googlegemini" alt="Gemini"/>
+<img src="https://img.shields.io/badge/ChromaDB-0d1117?style=flat-square" alt="ChromaDB"/>
+<img src="https://img.shields.io/badge/pgvector-0d1117?style=flat-square&logo=postgresql" alt="pgvector"/>
+</td>
+</tr>
+<tr>
+<td><b>backend & data</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,prisma,supabase,firebase&theme=dark" alt="FastAPI, PostgreSQL, Redis, Prisma, Supabase, Firebase"/><br/>
+<img src="https://img.shields.io/badge/Pydantic-0d1117?style=flat-square&logo=pydantic" alt="Pydantic"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-0d1117?style=flat-square&logo=sqlalchemy" alt="SQLAlchemy"/>
+<img src="https://img.shields.io/badge/Streamlit-0d1117?style=flat-square&logo=streamlit" alt="Streamlit"/>
+<img src="https://img.shields.io/badge/pandas-0d1117?style=flat-square&logo=pandas" alt="pandas"/>
+</td>
+</tr>
+<tr>
+<td><b>frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,threejs&theme=dark" alt="React, Next.js, Vite, Tailwind, Three.js"/></td>
+</tr>
+<tr>
+<td><b>tooling</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=docker,git,vercel&theme=dark" alt="Docker, Git, Vercel"/><br/>
+<img src="https://img.shields.io/badge/uv-0d1117?style=flat-square&logo=uv" alt="uv"/>
+<img src="https://img.shields.io/badge/pytest-0d1117?style=flat-square&logo=pytest" alt="pytest"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions" alt="GitHub Actions"/>
+</td>
+</tr>
+</table>
 
 ## <img src="https://img.shields.io/badge/-9B59FF?style=flat-square" height="14"/> contributions
 
