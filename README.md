@@ -119,12 +119,12 @@ React · FastAPI
 <table>
 <tr>
 <td width="140"><b>languages</b></td>
-<td><img src="https://skillicons.dev/icons?i=python,ts,js,cpp&theme=dark" alt="Python, TypeScript, JavaScript, C++"/></td>
+<td><img src="https://skillicons.dev/icons?i=python,ts,js&theme=dark" alt="Python, TypeScript, JavaScript"/></td>
 </tr>
 <tr>
 <td><b>ai / ml</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="PyTorch, TensorFlow, scikit-learn"/><br/>
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" alt="PyTorch, scikit-learn"/><br/>
 <img src="https://img.shields.io/badge/LangGraph-0d1117?style=flat-square&logo=langchain&logoColor=00D4FF" alt="LangGraph"/>
 <img src="https://img.shields.io/badge/Hugging_Face-0d1117?style=flat-square&logo=huggingface" alt="Hugging Face"/>
 <img src="https://img.shields.io/badge/MCP-0d1117?style=flat-square&logo=anthropic&logoColor=white" alt="MCP"/>
