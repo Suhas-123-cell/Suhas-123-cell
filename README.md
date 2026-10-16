@@ -1,91 +1,133 @@
 <div align="center">
 
 <img width="100%" src="https://raw.githubusercontent.com/justchokingaround/wallpapers/main/cyberpunk-dystopia.png" alt="cyberpunk banner"/>
- 
-<br/>
-
-[![name](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=1&pause=99999&color=00D4FF&center=true&vCenter=true&repeat=false&width=600&lines=MADDALI+SUHAS+CHOUDARY)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2800&pause=900&color=FF006E&center=true&vCenter=true&width=540&lines=building+things+that+don't+hallucinate+(mostly);agentic+AI+%E2%80%A2+indic+NLP+%E2%80%A2+full-stack;final+year.+still+going.)](https://git.io/typing-svg)
 
 <br/>
 
-[![](https://img.shields.io/badge/📍_Hyderabad-0d1117?style=flat-square&color=0d1117&labelColor=0d1117)](-)&nbsp;
-[![](https://img.shields.io/badge/Gmail-suhaschowdary25%40gmail.com-FF006E?style=flat-square&logo=gmail&logoColor=FF006E&labelColor=0d1117&color=0d1117)](mailto:suhaschowdary25@gmail.com)&nbsp;
-[![](https://img.shields.io/badge/🌐_Portfolio-suhaschowdary.qzz.io-00D4FF?style=flat-square&labelColor=0d1117&color=0d1117)](https://suhaschowdary.qzz.io)&nbsp;
-[![](https://img.shields.io/badge/open_to_collabs-00FF41?style=flat-square&labelColor=0d1117&color=0d1117)](-)
+[![name](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=1&pause=99999&color=00D4FF&center=true&vCenter=true&repeat=false&width=600&lines=MADDALI+SUHAS+CHOUDARY)](https://suhaschowdary.qzz.io)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2800&pause=900&color=FF006E&center=true&vCenter=true&width=540&lines=building+things+that+don't+hallucinate+(mostly);agentic+AI+%E2%80%A2+indic+NLP+%E2%80%A2+full-stack;final+year.+still+going.)](https://suhaschowdary.qzz.io)
+
+<p>
+  <a href="https://suhaschowdary.qzz.io"><img src="https://img.shields.io/badge/Portfolio-suhaschowdary.qzz.io-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=00D4FF&labelColor=0d1117" alt="Portfolio"/></a>
+  <a href="mailto:suhaschowdary25@gmail.com"><img src="https://img.shields.io/badge/Email-suhaschowdary25@gmail.com-FF006E?style=for-the-badge&logo=gmail&logoColor=FF006E&labelColor=0d1117" alt="Email"/></a>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/📍_Hyderabad,_India-0d1117?style=flat-square" alt="Location"/>
+  <img src="https://img.shields.io/badge/🎓_IIIT_Senapati,_Manipur-0d1117?style=flat-square" alt="Institute"/>
+  <img src="https://img.shields.io/badge/open_to_collabs-00FF41?style=flat-square&labelColor=0d1117&color=0d1117" alt="Open to collabs"/>
+</p>
 
 </div>
 
----
+<br/>
+
+## <img src="https://img.shields.io/badge/-00D4FF?style=flat-square" height="14"/> about
 
 ```yaml
-# ── profile.yml ────────────────────────────────────────────────
-  name:       Maddali Suhas Choudary
-  role:       CS & Engineering Student
-  institute:  IIIT Senapati, Manipur
-  focus:      Agentic AI  ·  Indic NLP  ·  LLM Pipelines
-  building:   things that actually work  (benchmarked, not vibes)
-  location:   Hyderabad, India
-  portfolio:  https://suhaschowdary.qzz.io
-# ───────────────────────────────────────────────────────────────
+name:      Maddali Suhas Choudary
+role:      CS & Engineering student, final year
+focus:     Agentic AI · Indic NLP · LLM pipelines
+building:  things that actually work (benchmarked, not vibes)
 ```
 
----
+## <img src="https://img.shields.io/badge/-00FF41?style=flat-square" height="14"/> featured work
 
-![](https://img.shields.io/badge/▸%20~%2F_PROJECTS-00FF41?style=for-the-badge&labelColor=0d1117)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| project | tldr | key stat |
-|---|---|---|
-| [**hallu-check**](#) | catches LLM hallucinations at claim level | `98.5%` on TruthfulQA |
-| [**multilingual doc intel**](#) | extracts structured data from Indian gov docs in Bangla, Telugu, Hindi | Sarvam Vision + Tesseract |
-| [**lang-benchmark**](#) | Sarvam-2B vs Gemma-2B on Indic NLP | IndicQA · IndicMMLU-Pro |
-| [**web-rendering chatbot**](#) | Chatbot for web rendered websites via bs4 | React · FastAPI |
+### [FabGuard AI](https://github.com/Suhas-123-cell/FabGuard-AI)
+Bearing-fault monitoring from vibration and audio. A local detector flags abnormal windows, a
+bounded LangGraph agent writes a cited inspection report, and only a human can approve the ticket.
 
----
+`0.955` balanced accuracy on held-out bearings · checked on 3 more public rigs
 
-![](https://img.shields.io/badge/▸%20~%2F_STACK-00D4FF?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python)
+![](https://img.shields.io/badge/LangGraph-0d1117?style=flat-square&logo=langchain)
+![](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi)
+![](https://img.shields.io/badge/pgvector-0d1117?style=flat-square&logo=postgresql)
+
+</td>
+<td width="50%" valign="top">
+
+### [IntentShield](https://github.com/Suhas-123-cell/IntentShield)
+Offline-first guardrail for AI agents using MCP tools. Every tool call is normalized, audited and
+either allowed, sent for review or blocked before any side effect happens.
+
+Hooks into Claude Code · Codex CLI · Cursor · Gemini CLI
+
+![](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python)
+![](https://img.shields.io/badge/MCP-0d1117?style=flat-square&logo=anthropic)
+![](https://img.shields.io/badge/Agent_security-0d1117?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Hallu-Check](https://github.com/Suhas-123-cell/Hallu-Check)
+Catches LLM hallucinations at the claim level.
+
+`98.5%` on TruthfulQA
+
+![](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python)
+![](https://img.shields.io/badge/LLM_eval-0d1117?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### [Multilingual Doc Intelligence](https://github.com/Suhas-123-cell/Multi-lingual-document-intelligence-)
+Extracts structured data from Indian government documents in Bangla, Telugu and Hindi.
+
+Sarvam Vision + Tesseract
+
+![](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python)
+![](https://img.shields.io/badge/OCR-0d1117?style=flat-square)
+![](https://img.shields.io/badge/Indic_NLP-0d1117?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [lang-benchmark](https://github.com/Suhas-123-cell/lang-benchmark)
+Sarvam-2B vs Gemma-2B on Indic NLP tasks.
+
+IndicQA · IndicMMLU-Pro
+
+![](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python)
+![](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch)
+
+</td>
+<td width="50%" valign="top">
+
+### [Web-Rendering Chatbot](https://github.com/Suhas-123-cell/web-rendering-chatbot)
+Chat with any website: pages are scraped with BeautifulSoup and answered over.
+
+React · FastAPI
+
+![](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react)
+![](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi)
+
+</td>
+</tr>
+</table>
+
+## <img src="https://img.shields.io/badge/-FF006E?style=flat-square" height="14"/> stack
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=python,fastapi,react,pytorch,tensorflow,js,cpp,git,firebase,supabase&theme=dark&perline=10)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,postgres,docker&theme=dark)](https://skillicons.dev)
+<br/>
+[![Skills](https://skillicons.dev/icons?i=react,ts,js,cpp,git,firebase,supabase&theme=dark)](https://skillicons.dev)
 
 </div>
 
----
-
-![](https://img.shields.io/badge/▸%20~%2F_STATS-FF006E?style=for-the-badge&labelColor=0d1117)
-
-<div align="center">
-
-[![Trophies](https://trophy.benkou.dev/?username=Suhas-123-cell&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-
----
-
-![](https://img.shields.io/badge/▸%20~%2F_GRID-9B59FF?style=for-the-badge&labelColor=0d1117)
+## <img src="https://img.shields.io/badge/-9B59FF?style=flat-square" height="14"/> contributions
 
 <div align="center">
 
 ![snake](https://raw.githubusercontent.com/Suhas-123-cell/Suhas-123-cell/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Suhas-123-cell&bg_color=0d1117&color=00D4FF&line=00D4FF&point=ffffff&area=true&area_color=00D4FF&hide_border=true&custom_title=contribution+activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
-
-![](https://img.shields.io/badge/📍_Hyderabad-0d1117?style=flat-square&color=111&labelColor=111)
-![](https://img.shields.io/badge/suhaschowdary25%40gmail.com-FF006E?style=flat-square&color=111&labelColor=111&logoColor=FF006E)
-[![](https://img.shields.io/badge/🌐_suhaschowdary.qzz.io-00D4FF?style=flat-square&color=111&labelColor=111)](https://suhaschowdary.qzz.io)
-![](https://img.shields.io/badge/open_to_collabs-00FF41?style=flat-square&color=111&labelColor=111)
 
 </div>
