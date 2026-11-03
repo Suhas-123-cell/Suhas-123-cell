@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=6366F1&center=true&vCenter=true&width=640&lines=Final-year+CSE+%40+IIIT+Senapati%2C+Manipur;Agent+guardrails+%C2%B7+LangGraph+%C2%B7+MCP;Full-stack+products+that+actually+ship;Every+metric+comes+with+its+caveats)](https://github.com/Suhas-123-cell)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-eight-green-l7jbjfvx8g.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://suhaschowdary.qzz.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhas-choudhary)
 [![Email](https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhaschowdary25@gmail.com)
 
